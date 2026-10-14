@@ -1,0 +1,8 @@
+torch
+librosa
+soundfile
+SpeechRecognition
+Flask
+numpy
+scipy
+gunicorn
